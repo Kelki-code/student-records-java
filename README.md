@@ -67,9 +67,13 @@ README.md           // this file
 Choose option: 5
 
 S001 | John Doe | Computer Science | GPA: 3.8
+
 S002 | Jane Smith | Electrical Engineering | GPA: 3.5
+
 S003 | Michael Brown | Mechanical Engineering | GPA: 2.9
+
 S004 |Sarah Johnson | Business Administration | GPA: 3.2
+
 S005 | Emily Davis | Information Technology | GPA: 3.9
 
 
